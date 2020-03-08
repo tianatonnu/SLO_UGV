@@ -1,0 +1,13 @@
+{
+    "vehicle_id": 1,
+    "vehicle_simulated": false,
+    "coms_simulated": true,
+    "comm_sim_file": "comm_sim_example.json",
+    "simulation": {
+        "defaultPort": 5760,
+        "shelveName": "shelfStore.store"
+    },
+    "mission_control_MAC": "0013A200409BD79C",
+    "baud_rate": 57600,
+    "waypoint_tolerance": 1
+}
